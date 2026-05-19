@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+joblib
+xgboost
+pulp
+requests
+openml
