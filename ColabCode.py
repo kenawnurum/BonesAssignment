@@ -8,7 +8,9 @@ Original file is located at
 
 Start Implmentation by loading the dataset
 """
-
+pip install fairlearn
+pip install xgboost
+pip install gurobipy
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/propublica/compas-analysis/master/compas-scores-two-years.csv"
